@@ -39,3 +39,7 @@ Para utilizar a calculadora, basta inserir os números e operadores desejados us
 Conclusão:
 
 Este é meu primeiro projetinho, engatinhanho no campo da programação <3
+
+
+![Print](https://github.com/Lobo-Branco/ProjetoCalculadora/assets/90481874/f91e2b32-b63b-4898-99f1-b7fd0aa587dd)
+
